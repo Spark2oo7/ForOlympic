@@ -1,0 +1,7 @@
+C:\Users\Spark\source\repos\AllCupsFinal\AllCupsFinal\bin\Debug\AllCupsFinal.exe.config
+C:\Users\Spark\source\repos\AllCupsFinal\AllCupsFinal\bin\Debug\AllCupsFinal.exe
+C:\Users\Spark\source\repos\AllCupsFinal\AllCupsFinal\bin\Debug\AllCupsFinal.pdb
+C:\Users\Spark\source\repos\AllCupsFinal\AllCupsFinal\obj\Debug\AllCupsFinal.csproj.AssemblyReference.cache
+C:\Users\Spark\source\repos\AllCupsFinal\AllCupsFinal\obj\Debug\AllCupsFinal.csproj.CoreCompileInputs.cache
+C:\Users\Spark\source\repos\AllCupsFinal\AllCupsFinal\obj\Debug\AllCupsFinal.exe
+C:\Users\Spark\source\repos\AllCupsFinal\AllCupsFinal\obj\Debug\AllCupsFinal.pdb
