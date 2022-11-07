@@ -1,0 +1,7 @@
+E:\Files\Programming\C#\AllCups3F\AllCups3F\bin\Debug\AllCups3F.exe.config
+E:\Files\Programming\C#\AllCups3F\AllCups3F\bin\Debug\AllCups3F.exe
+E:\Files\Programming\C#\AllCups3F\AllCups3F\bin\Debug\AllCups3F.pdb
+E:\Files\Programming\C#\AllCups3F\AllCups3F\obj\Debug\AllCups3F.csproj.AssemblyReference.cache
+E:\Files\Programming\C#\AllCups3F\AllCups3F\obj\Debug\AllCups3F.csproj.CoreCompileInputs.cache
+E:\Files\Programming\C#\AllCups3F\AllCups3F\obj\Debug\AllCups3F.exe
+E:\Files\Programming\C#\AllCups3F\AllCups3F\obj\Debug\AllCups3F.pdb
