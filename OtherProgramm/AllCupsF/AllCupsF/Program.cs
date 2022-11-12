@@ -161,9 +161,6 @@ namespace AllCupsF
             Console.WriteLine("get wts...");
             var wts = GetWts(reviews);
 
-            //Console.WriteLine(wts["спасибо"].Item1 + " " + wts["спасибо"].Item2);
-            //Console.ReadKey();
-
             Console.WriteLine("open test file...");
             var testReviews = ReadTest();
             Console.WriteLine("get results...");
