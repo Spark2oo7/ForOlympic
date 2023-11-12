@@ -1,0 +1,2 @@
+/media/spark/data/Files/Programming/Languages/CSharp/Linux/NeuralNetworkLibrary/NeuralNetworkLibrary/obj/Debug/NeuralNetworkLibrary.csproj.AssemblyReference.cache
+/media/spark/data/Files/Programming/Languages/CSharp/Linux/NeuralNetworkLibrary/NeuralNetworkLibrary/obj/Debug/NeuralNetworkLibrary.csproj.CoreCompileInputs.cache
