@@ -8,5 +8,6 @@ sudo apt install mono-devel
 sudo apt install mono-complete
 
 mcs -o+ -out:program.exe hello.cs
-0
-mono program.exe4
+mcs /reference:System.Drawing.dll -o+ -out:program.exe test.cs
+
+mono program.exe
